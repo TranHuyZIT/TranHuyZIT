@@ -9,7 +9,7 @@ Tran Huy</a></h1>
 
 - 🌱 I’m currently Working on Web App, Microservices Architecture
 
-- 🌱 I’m currently learning SpringBoot && Microservices && AWS <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning SpringBoot && Microservices && AWS <a href="https://github.com/TranHuy2k2/WeDevLMS" target="blank">WeDevLMS</a>
 
 - 📫 How to reach me **giahuytran2002@gmail.com**
 
