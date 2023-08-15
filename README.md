@@ -24,7 +24,7 @@ Tran Huy</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/TranHuy2k2">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgiahui-portfolio.vercel.app](https://giahui-portfolio.vercel.app">
+	   <a style="margin-left: 10px;" target="_blank" href="https://giahui-portfolio.vercel.app">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tgiahui">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
