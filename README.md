@@ -1,4 +1,6 @@
-![counter](https://envg0xjz78zmge8.m.pipedream.net)
+![view](https://komarev.com/ghpvc/?username=TranHuy2k2)
+
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuy2k2&count_private=true&layout=compact&hide_border=true)
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Tran Huy</a></h1>
 <h3 align="center">A passionate Application Developer from VietNam</h3>
