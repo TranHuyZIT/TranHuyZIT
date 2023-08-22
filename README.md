@@ -5,8 +5,7 @@ Tran Gia Huy</a></h1>
 
 ![view](https://komarev.com/ghpvc/?username=TranHuy2k2)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuy2k2&theme=tokyonight&layout=compact&langs_count=6">
-<img src="https://github-readme-stats.vercel.app/api?username=TranHuy2k2&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; 
+<img src="https://github-readme-stats.vercel.app/api?username=TranHuy2k2&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuy2k2&theme=tokyonight&layout=compact&langs_count=6">
 
 
 <br/>
