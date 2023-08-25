@@ -8,6 +8,8 @@ Tran Gia Huy</a></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=TranHuy2k2&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuy2k2&theme=tokyonight&layout=compact&langs_count=6">
 
 
+![https://github-profile-trophy.vercel.app/?username=TranHuy2k2&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=TranHuy2k2&theme=gruvbox)
+
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
