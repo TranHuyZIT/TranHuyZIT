@@ -6,16 +6,6 @@ Tran Gia Huy</a></h1>
 
 ![view](https://komarev.com/ghpvc/?username=TranHuy2k2)
 
-<h3 align="center">A passionate Application Developer from VietNam</h3>
-
-![zit](https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/393314234_206660519110198_7662038197066498013_n.png?stp=dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=173fa1&_nc_ohc=vrAXflUYgjIAX9w-zat&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfCybNXmmblqnRtw9XMlKlwHE2ejddvtXYuB2Z72T3bsNg&oe=6590801F)
-
-<img src="https://github-readme-stats.vercel.app/api?username=TranHuy2k2&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuy2k2&theme=tokyonight&layout=compact&langs_count=6">
-
-
-![https://github-profile-trophy.vercel.app/?username=TranHuy2k2&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=TranHuy2k2&theme=gruvbox)
-
-<br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -29,6 +19,14 @@ Tran Gia Huy</a></h1>
 
 ![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src = "https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white">
 
+<h3 align="center">A passionate Application Developer from VietNam</h3>
+
+![zit](https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/393314234_206660519110198_7662038197066498013_n.png?stp=dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=173fa1&_nc_ohc=vrAXflUYgjIAX9w-zat&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfCybNXmmblqnRtw9XMlKlwHE2ejddvtXYuB2Z72T3bsNg&oe=6590801F)
+
+<img src="https://github-readme-stats.vercel.app/api?username=TranHuy2k2&show_icons=true&count_private=true"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuy2k2&layout=compact&langs_count=6">
+
+
+![https://github-profile-trophy.vercel.app/?username=TranHuy2k2&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=TranHuy2k2)
 
 <br/>
 <h2 align="left" target="blank">
