@@ -21,7 +21,7 @@ Tran Gia Huy</a></h1>
 
 <h3 align="center">A passionate Application Developer from VietNam</h3>
 
-![zit](https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/393314234_206660519110198_7662038197066498013_n.png?stp=dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=173fa1&_nc_ohc=vrAXflUYgjIAX9w-zat&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfCybNXmmblqnRtw9XMlKlwHE2ejddvtXYuB2Z72T3bsNg&oe=6590801F)
+![zit](https://github.com/TranHuy2k2/TranHuy2k2/blob/main/FB%20group%20banner.png?raw=true)
 
 <img src="https://github-readme-stats.vercel.app/api?username=TranHuy2k2&show_icons=true&count_private=true"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuy2k2&layout=compact&langs_count=6">
 
