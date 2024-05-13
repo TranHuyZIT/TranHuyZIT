@@ -4,7 +4,7 @@ Tran Gia Huy</a></h1>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer;Tech+Blogger;NLP+Engineer;Full-stack+Developer)
 
 
-![view](https://komarev.com/ghpvc/?username=TranHuyZIT)
+![view](https://komarev.com/ghpvc/?username=TranHuy2K2)
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
